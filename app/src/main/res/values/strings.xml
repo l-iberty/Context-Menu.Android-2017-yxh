@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ContextMenu</string>
+    <string name="text">
+        最佳生长温度: %1$.1f ℃\n最佳土壤湿度: %2$.1f %%\n最佳空气湿度: %3$.1f ℃\n最佳土壤温度: %4$.1f %%\n最佳光照强度: %5$.1f Lx\n\n%6$s\n\n
+    </string>
+    <!--<string name="title">植物名称</string>-->
+    <string name="context_menu">Context menu</string>
+
+    <string name="desc0">英文名：Violet\n属：紫罗兰属\n界：植物界\n科：十字花科\n门：被子植物门\n纲：双子叶植物纲\n目：罂粟目\n拉丁学名：Matthiolaincana</string>
+
+    <string name="desc1">英文名：Tulips\n属：郁金香属\n界：植物界\n科：百合科\n门：被子植物门\n纲：单子叶植物纲\n目：百合目\n拉丁学名：Tulipa gesneriana</string>
+    <string name="desc2">英文名：Graptopetalum paraguayense\n属：风车草属\n界：植物界\n科：景天科\n门：被子植物门\n纲：双子叶植物纲\n目：蔷薇目\n拉丁学名：Graptopetalum paraguayense ssp. paragrayense</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+
+</resources>
